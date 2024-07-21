@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\general\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\general\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:06:51.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
