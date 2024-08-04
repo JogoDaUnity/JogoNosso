@@ -357,8 +357,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Game/Scripts/General/InputActions/MyInputActions.cs"
+"Assets/Game/Scripts/General/InputActions/InputActions.cs"
 "Assets/Game/Scripts/General/MovementHandler.cs"
+"Assets/Game/Scripts/General/PlayerMovementManager.cs"
+"Assets/Game/Scripts/Menu/PcCameraManager.cs"
+"Assets/Game/Scripts/Menu/PcScripts/ExitPcBtn.cs"
+"Assets/Game/Scripts/Menu/PcScripts/PcInteractionsHandler.cs"
+"Assets/Game/Scripts/Menu/PcScripts/SoftwareManager/SoftwareManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+

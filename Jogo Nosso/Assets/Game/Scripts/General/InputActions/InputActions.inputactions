@@ -1,0 +1,34 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "MenuControls",
+            "id": "74480a72-740f-4256-9fb3-fb1f1ab2ec9b",
+            "actions": [
+                {
+                    "name": "OpenPC",
+                    "type": "Button",
+                    "id": "3e67f232-31d0-4a45-be7d-dd3151a6c4cb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5ed093a1-6bd5-42a8-a602-0d65388aed96",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenPC",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

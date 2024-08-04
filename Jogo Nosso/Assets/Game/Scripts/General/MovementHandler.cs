@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class MovementHandler : MonoBehaviour
 {
+    //se o player não estiver funcionando por algum motivo, pode ser por causa do script "PlayerMovementManager"
+
     //Sprint variables
     [SerializeField] private int MaxStamina = 25;
     [SerializeField] private float CurrentStamina;
@@ -15,11 +17,11 @@ public class MovementHandler : MonoBehaviour
 
     //other variables
     private Vector3 inputs;
-    private CharacterController cc;
+    [SerializeField] private CharacterController cc;
     private Transform cam;
     [SerializeField] private Text staminatext;
 
-    private void Awake()
+    private void Awake() // atribuição de algumas variaveis ao iniciar o script
     {
         cc = GetComponent<CharacterController>();
         cam = Camera.main.transform;
@@ -30,7 +32,7 @@ public class MovementHandler : MonoBehaviour
     private void Update()
     {
         MoveHandler();
-        staminatext.text = $"Stamina: {CurrentStamina:F2}";
+        staminatext.text = $"Stamina: {CurrentStamina:F2}"; //atualizando o texto da stamina na tela
         StaminaManager();
     }
 
@@ -50,7 +52,7 @@ public class MovementHandler : MonoBehaviour
         if (Input.GetKeyUp(KeyCode.LeftShift)) Running = false;
     }
 
-    private void StaminaManager()
+    private void StaminaManager() // Gerenciando a stamina, mas no momento ela está bugada, ent ainda tenho que consertar. A recuperação de stamina está crescendo esponencialmente
     {
         if(Running == true)
         {
