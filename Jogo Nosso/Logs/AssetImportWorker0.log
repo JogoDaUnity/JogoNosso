@@ -15,7 +15,7 @@ C:/Users/thiag/OneDrive/Documentos/GitHub/JogoNosso/Jogo Nosso
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55941
+54369
 Successfully changed project path to: C:/Users/thiag/OneDrive/Documentos/GitHub/JogoNosso/Jogo Nosso
 C:/Users/thiag/OneDrive/Documentos/GitHub/JogoNosso/Jogo Nosso
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,16 +49,16 @@ C:/Users/thiag/OneDrive/Documentos/GitHub/JogoNosso/Jogo Nosso
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [18640]  Target information:
+Player connection [7644]  Target information:
 
-Player connection [18640]  * "[IP] 192.168.100.128 [Port] 0 [Flags] 2 [Guid] 1717414756 [EditorId] 1717414756 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QCHDNT0) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [7644]  * "[IP] 192.168.100.128 [Port] 0 [Flags] 2 [Guid] 2361364072 [EditorId] 2361364072 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QCHDNT0) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [18640]  * "[IP] 26.152.158.90 [Port] 0 [Flags] 2 [Guid] 1717414756 [EditorId] 1717414756 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QCHDNT0) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [7644]  * "[IP] 26.152.158.90 [Port] 0 [Flags] 2 [Guid] 2361364072 [EditorId] 2361364072 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QCHDNT0) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [18640] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [18640] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [7644] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [7644] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-Refreshing native plugins compatible for Editor in 9.93 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 13.01 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.38f1 (c5d5a7410213)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Resources/UnitySubsystems
@@ -74,46 +74,46 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56192
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007023 seconds.
-- Loaded All Assemblies, in  0.366 seconds
+Registered in 0.008471 seconds.
+- Loaded All Assemblies, in  0.371 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.290 seconds
-Domain Reload Profiling: 655ms
-	BeginReloadAssembly (117ms)
+- Finished resetting the current domain, in  0.287 seconds
+Domain Reload Profiling: 657ms
+	BeginReloadAssembly (108ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (35ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (56ms)
-	LoadAllAssembliesAndSetupDomain (143ms)
-		LoadAssemblies (115ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (156ms)
+		LoadAssemblies (106ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (141ms)
-			TypeCache.Refresh (140ms)
-				TypeCache.ScanAssembly (128ms)
+		AnalyzeDomain (153ms)
+			TypeCache.Refresh (152ms)
+				TypeCache.ScanAssembly (139ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (291ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (287ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (232ms)
+		SetupLoadedEditorAssemblies (226ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (11ms)
 			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (166ms)
-			ProcessInitializeOnLoadMethodAttributes (46ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -121,8 +121,8 @@ Domain Reload Profiling: 655ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.726 seconds
-Refreshing native plugins compatible for Editor in 4.21 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.681 seconds
+Refreshing native plugins compatible for Editor in 3.51 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -130,47 +130,47 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.758 seconds
-Domain Reload Profiling: 1482ms
-	BeginReloadAssembly (186ms)
+- Finished resetting the current domain, in  0.760 seconds
+Domain Reload Profiling: 1440ms
+	BeginReloadAssembly (169ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (29ms)
-	RebuildCommonClasses (40ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (44ms)
-	LoadAllAssembliesAndSetupDomain (442ms)
-		LoadAssemblies (335ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (420ms)
+		LoadAssemblies (315ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (208ms)
-			TypeCache.Refresh (182ms)
-				TypeCache.ScanAssembly (169ms)
-			ScanForSourceGeneratedMonoScriptInfo (17ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (758ms)
+		AnalyzeDomain (198ms)
+			TypeCache.Refresh (174ms)
+				TypeCache.ScanAssembly (161ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (761ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (588ms)
+		SetupLoadedEditorAssemblies (577ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (6ms)
+			InitializePlatformSupportModulesInManaged (8ms)
 			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (62ms)
-			ProcessInitializeOnLoadAttributes (483ms)
-			ProcessInitializeOnLoadMethodAttributes (25ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			BeforeProcessingInitializeOnLoad (64ms)
+			ProcessInitializeOnLoadAttributes (471ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 6.16 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.59 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3852 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 75 unused Assets / (1.4 MB). Loaded Objects now: 4329.
-Memory consumption went from 165.2 MB to 163.9 MB.
-Total: 9.300700 ms (FindLiveObjects: 1.081500 ms CreateObjectMapping: 2.065900 ms MarkObjects: 5.374300 ms  DeleteObjects: 0.777100 ms)
+Unloading 75 unused Assets / (1.4 MB). Loaded Objects now: 4330.
+Memory consumption went from 165.5 MB to 164.1 MB.
+Total: 3.911600 ms (FindLiveObjects: 0.353700 ms CreateObjectMapping: 0.105000 ms MarkObjects: 2.961500 ms  DeleteObjects: 0.489900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -187,126 +187,40 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 487668.476589 seconds.
-  path: Assets/Game/3dObjects/personagem
-  artifactKey: Guid(b9c5ba11643047240bacdb1a60a89f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/personagem using Guid(b9c5ba11643047240bacdb1a60a89f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1a78006cf4ba154fe6522d587face9c9') in 0.004444 seconds
+  Time since last request: 27880.666997 seconds.
+  path: Assets/Game/3dObjects/GameMap/grama
+  artifactKey: Guid(cabf045f8e355934dbe7605fc0add7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/3dObjects/GameMap/grama using Guid(cabf045f8e355934dbe7605fc0add7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ae4d079e3b968cb1239e44b509222ed8') in 0.003389 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 1377.349619 seconds.
-  path: Assets/Game/3dObjects/GameMap
-  artifactKey: Guid(9e361e0cc6a31f044a7797409c3699e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap using Guid(9e361e0cc6a31f044a7797409c3699e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd1e120242a1258145d920cc3e06b142e') in 0.000711 seconds
+  Time since last request: 34.165653 seconds.
+  path: Assets/Game/3dObjects/GameMap/grama/grama sem movimento.fbx
+  artifactKey: Guid(cc8d98be9ef115d4ba15aea392491c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/3dObjects/GameMap/grama/grama sem movimento.fbx using Guid(cc8d98be9ef115d4ba15aea392491c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9de6aaf4fe82c96270a57aa1fcd0b5e5') in 0.530118 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 20015
 ========================================================================
 Received Import Request.
-  Time since last request: 18.488295 seconds.
-  path: Assets/Game/3dObjects/GameMap/pedra
-  artifactKey: Guid(6169b5d376cc3d941bb695c520d94449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/pedra using Guid(6169b5d376cc3d941bb695c520d94449) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0d1df0ecec42a373036ae6b0b41f6a19') in 0.000762 seconds
+  Time since last request: 0.457391 seconds.
+  path: Assets/Game/3dObjects/GameMap/grama/grama com movimento.fbx
+  artifactKey: Guid(0ec334b4b25ce9b4cae3d1bf2c716106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/3dObjects/GameMap/grama/grama com movimento.fbx using Guid(0ec334b4b25ce9b4cae3d1bf2c716106) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fed21626cfc1ed28046c9dcdd60dbf20') in 0.459319 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 38.934030 seconds.
-  path: Assets/Game/3dObjects/GameMap/Arvore
-  artifactKey: Guid(31ea83809f214b343879b72227e0f270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/Arvore using Guid(31ea83809f214b343879b72227e0f270) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '2c8fa9fcbf96f63b9fd26e903058140f') in 0.000540 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 72.098719 seconds.
-  path: Assets/Game/3dObjects/GameMap/Arvore/arvore01.fbx
-  artifactKey: Guid(f2f0b84e584218e40a5f7ae90d77c0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/Arvore/arvore01.fbx using Guid(f2f0b84e584218e40a5f7ae90d77c0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'cd8d41ae4f8b819fa24419bf383e8db4') in 0.239352 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 27
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Game/3dObjects/GameMap/Arvore/arvore03.fbx
-  artifactKey: Guid(9e1cfc61b6fb83c47a1f6eb02e4f0bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/Arvore/arvore03.fbx using Guid(9e1cfc61b6fb83c47a1f6eb02e4f0bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'dcf44faab43fe54d14373a2b9bd6a07a') in 0.072327 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 32
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Game/3dObjects/GameMap/pedra/rock3.fbx
-  artifactKey: Guid(13f351af539307841bbbd22c463fcb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/pedra/rock3.fbx using Guid(13f351af539307841bbbd22c463fcb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'cc56f3ba909b45a5060f897adcdf5af7') in 0.027894 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Game/3dObjects/GameMap/pedra/rock2.fbx
-  artifactKey: Guid(eea5f7a8de7da5d4091e6f585376bfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/pedra/rock2.fbx using Guid(eea5f7a8de7da5d4091e6f585376bfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '33a408f01cf06dd0c71f8c906e366702') in 0.027667 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Game/3dObjects/GameMap/Arvore/arvore04.fbx
-  artifactKey: Guid(292e267829bc15549a412c394b9b5858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Game/3dObjects/GameMap/Arvore/arvore04.fbx using Guid(292e267829bc15549a412c394b9b5858) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '48c5c20b395fa34cfabfbc7b5bf3df15') in 0.085329 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 37
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Number of asset objects unloaded after import = 20025
