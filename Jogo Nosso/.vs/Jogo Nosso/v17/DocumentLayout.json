@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\player\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\general\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\general\\movementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\player\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\scenemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\assets\\game\\scripts\\menu\\pcscripts\\pcinteractionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\menu\\pcscripts\\pcinteractionshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\player\\playerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\player\\playerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\assets\\game\\scripts\\menu\\pcscripts\\softwaremanager\\softwaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\menu\\pcscripts\\softwaremanager\\softwaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\menu\\pcscripts\\exitpcbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\menu\\pcscripts\\exitpcbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|c:\\users\\kirat\\onedrive\\documentos\\unitygames\\groupproject\\jogonosso\\jogo nosso\\assets\\game\\scripts\\general\\playermovementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6358829B-91A8-B7C6-849F-815A99AD1A62}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\general\\playermovementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SceneManagement.cs",
-              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Player\\SceneManagement.cs",
-              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\SceneManagement.cs",
-              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Player\\SceneManagement.cs",
-              "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\SceneManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovementManager.cs",
+              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\General\\PlayerMovementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\General\\PlayerMovementManager.cs",
+              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\General\\PlayerMovementManager.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\General\\PlayerMovementManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T14:31:51.891Z",
+              "WhenOpened": "2024-08-04T01:51:18.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MovementHandler.cs",
-              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Player\\MovementHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\MovementHandler.cs",
-              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Player\\MovementHandler.cs",
-              "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\MovementHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\General\\MovementHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T14:31:25.589Z",
+              "WhenOpened": "2024-08-04T01:45:37.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExitPcBtn.cs",
+              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Menu\\PcScripts\\ExitPcBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Menu\\PcScripts\\ExitPcBtn.cs",
+              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Menu\\PcScripts\\ExitPcBtn.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Menu\\PcScripts\\ExitPcBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:03:57.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerHandler.cs",
-              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Player\\PlayerHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Player\\PlayerHandler.cs",
-              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Player\\PlayerHandler.cs",
-              "RelativeToolTip": "Assets\\Game\\Scripts\\Player\\PlayerHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "SoftwareManager.cs",
+              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Menu\\PcScripts\\SoftwareManager\\SoftwareManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Menu\\PcScripts\\SoftwareManager\\SoftwareManager.cs",
+              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Menu\\PcScripts\\SoftwareManager\\SoftwareManager.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Menu\\PcScripts\\SoftwareManager\\SoftwareManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T14:31:20.725Z",
+              "WhenOpened": "2024-07-27T01:02:56.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PcInteractionsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Menu\\PcScripts\\PcInteractionsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Menu\\PcScripts\\PcInteractionsHandler.cs",
+              "ToolTip": "C:\\Users\\kirat\\OneDrive\\Documentos\\UnityGames\\GroupProject\\JogoNosso\\Jogo Nosso\\Assets\\Game\\Scripts\\Menu\\PcScripts\\PcInteractionsHandler.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Menu\\PcScripts\\PcInteractionsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:22:39.033Z",
               "EditorCaption": ""
             }
           ]
